@@ -1,81 +1,74 @@
 # Hi there, I'm Ahsen! 👋
 
-I'm a beginner Machine Learning enthusiast passionate about learning new stuff. Here's a bit more about me:
+I'm a passionate explorer of AI, Machine Learning. Here's a bit more about me:
 
-## About Me
+## About Me:
 
-- 🔭 I’m currently working on exploring different Python libraries and making myself aware of Machine Learning.
-- 🌱 I’m currently learning advanced techniques in Machine Learning and Data Science.
-- 👯 I’m looking to collaborate on exciting Machine Learning projects.
-- 🤔 I’m looking for help with mastering deep learning frameworks.
-- 💬 Ask me about Python, Machine Learning, or anything tech-related!
-- 📫 How to reach me:
-  <br>
- <a href="https://www.linkedin.com/in/ahsen-tahir-224a7126b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
-  </a>
-  <a href="https://twitter.com/@ahsen_0606" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter Follow"/>
-  </a>
-  <a href="https://www.instagram.com/ahsen_tahir007" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram Follow"/>
-  </a>
-  <a href="https://discordapp.com/users/1113468865087799387" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Add-blueviolet?style=for-the-badge&logo=discord" alt="Discord Add"/>
-  </a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, you might find me busy touching grass 🌱. I sometimes do content writing and here are some of the tech posts I have made:</br>
- - Is Perplexity AI the Future of Browsers? - https://estrakt.com/is-perplexity-ai-the-future-of-browsers/<br>
-- What is Galaxy AI? - https://estrakt.com/what-is-galaxy-ai/<br>
-- Humane AI: Pin Things You Need to Know - https://estrakt.com/humane-ai-pin-things-you-need-to-know/<br>
+- 🔭 I’m currently working on **Generative AI** and **RAG model fine-tuning**.
+- 🌱 I’ve studied all the mathematics behind **Deep Learning** and **ML**, and I'm currently diving deep into **Gen AI**.
+- 👯 I’m looking to collaborate on **AI, Machine Learning, and Computer Vision** projects.
+- 🤝 I’m seeking help in exploring **cutting-edge techniques in AI**.
+- 💬 Ask me about **AI/ML, Deep Learning, Computer Vision, or Python**.
+- ⚡ Fun fact: Constantly learning new things.  
 
+🌐 **Socials**:
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsen-tahir-224a7126b) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@ahsen_0606)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahsen_tahir007)
+[![Discord](https://img.shields.io/badge/Discord-Add-blueviolet?style=for-the-badge&logo=discord)](https://discordapp.com/users/1113468865087799387)
 
-- 🐍 I primarily code in Python.
-- 🛠️ I have experience with the following frameworks and libraries:
-  - Django
-  - Flask
-  - NumPy
-  - Pandas
-  - Scikit-learn
-  - Matplotlib
-  - Seaborn
-  - Git
-- 💻 I have also done Object-Oriented Programming (OOP) in C++.
-- 🖥️ Other technologies I work with:
-  - C
-  - C++
-  - JavaScript
-  - HTML
-  - CSS
+---
 
-## Technologies I Use
+## 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++"/>
+  <img src="https://img.shields.io/badge/AssemblyScript-blue?style=for-the-badge&logo=AssemblyScript" alt="AssemblyScript"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-brightgreen?style=for-the-badge&logo=opencv" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Roboflow-brightgreen?style=for-the-badge&logo=Roboflow" alt="Roboflow"/>
+  <img src="https://img.shields.io/badge/Supervision-yellowgreen?style=for-the-badge&logo=Supervision" alt="Supervision"/>
+  <img src="https://img.shields.io/badge/YOLO-red?style=for-the-badge&logo=YOLO" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge&logo=numpy" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-darkblue?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Keras-lightblue?style=for-the-badge&logo=keras" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-yellowgreen?style=for-the-badge&logo=matplotlib" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-darkblue?style=for-the-badge&logo=flask" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Notion-darkblue?style=for-the-badge&logo=notion" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" alt="Git"/>
 </p>
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats:
 
 ![Ahsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsenTahir&show_icons=true&theme=radical)
 
-## Top Languages
+---
+
+## 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhsenTahir&theme=radical)](https://github.com/AhsenTahir/github-profile-trophy)
+
+---
+
+## 🔝 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsenTahir&layout=compact&theme=radical)
 
-Feel free to reach out if you'd like to collaborate or just chat about tech!
+---
 
+## Analytics:
+
+[![](https://visitcount.itsvg.in/api?id=AhsenTahir&label=Profile%20Viewers&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+---
