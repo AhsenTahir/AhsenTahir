@@ -10,6 +10,7 @@ I'm a passionate explorer of AI, Machine Learning. Here's a bit more about me:
 - 🤝 I’m seeking help in exploring **cutting-edge techniques in AI**.
 - 💬 Ask me about **AI/ML, Deep Learning, Computer Vision, or Python**.
 - ⚡ Fun fact: Constantly learning new things.  
+![Description of GIF](./assets/my_gif.gif)
 
 🌐 **Socials**:
 
@@ -71,4 +72,4 @@ I'm a passionate explorer of AI, Machine Learning. Here's a bit more about me:
 
 [![](https://visitcount.itsvg.in/api?id=AhsenTahir&label=Profile%20Viewers&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
----
+
