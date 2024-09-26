@@ -1,23 +1,31 @@
 # Hi there, I'm Ahsen! 👋
 
-I'm a passionate explorer of AI, Machine Learning. Here's a bit more about me:
+I'm a passionate explorer of AI and Machine Learning. Here's a bit more about me:
 
 ## About Me:
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-- 🔭 I’m currently working on **Generative AI** and **RAG model fine-tuning**.
-- 🌱 I’ve studied all the mathematics behind **Deep Learning** and **ML**, and I'm currently diving deep into **Gen AI**.
-- 👯 I’m looking to collaborate on **AI, Machine Learning, and Computer Vision** projects.
-- 🤝 I’m seeking help in exploring **cutting-edge techniques in AI**.
-- 💬 Ask me about **AI/ML, Deep Learning, Computer Vision, or Python**.
-- ⚡ Fun fact: Constantly learning new things.  
-![Description of GIF](./assets/my_gif.gif)
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>Generative AI</strong> and <strong>RAG model fine-tuning</strong>.</li>
+      <li>🌱 I’ve studied all the mathematics behind <strong>Deep Learning</strong> and <strong>ML</strong>, and I'm currently diving deep into <strong>Gen AI</strong>.</li>
+      <li>👯 I’m looking to collaborate on <strong>AI, Machine Learning, and Computer Vision</strong> projects.</li>
+      <li>🤝 I’m seeking help in exploring <strong>cutting-edge techniques in AI</strong>.</li>
+      <li>💬 Ask me about <strong>AI/ML, Deep Learning, Computer Vision, or Python</strong>.</li>
+      <li>⚡ Fun fact: Constantly learning new things.</li>
+    </ul>
+  </div>
+  
+  <img src="./assets/my_gif.gif" alt="Description of GIF" style="width: 200px; height: auto;"/> <!-- Adjust the size as needed -->
+
+</div>
 
 🌐 **Socials**:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsen-tahir-224a7126b) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@ahsen_0606)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahsen_tahir007)
 [![Discord](https://img.shields.io/badge/Discord-Add-blueviolet?style=for-the-badge&logo=discord)](https://discordapp.com/users/1113468865087799387)
+
 
 ---
 
