@@ -20,7 +20,7 @@ I'm a passionate explorer of AI and Machine Learning. Here's a bit more about me
 
 </div>
 
-🌐 **Socials**:
+🌐 **Socials**:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsen-tahir-224a7126b) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@ahsen_0606)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahsen_tahir007)
