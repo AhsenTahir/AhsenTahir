@@ -7,11 +7,11 @@ I'm a passionate explorer of AI and Machine Learning. Here's a bit more about me
 
  <div style="flex: 1; padding-right: 20px;">
     <ul>
-      <li>🌱 I’m passionate about pursuing <strong>research-oriented projects</strong> and building <strong>innovative products</strong> that have a meaningful impact on the world.</li>
-      <li>📚 Currently exploring how to leverage <strong>Deep Learning</strong> and <strong>Machine Learning</strong> in the <strong>medical domain</strong>.</li>
-      <li>👯 I’m looking to collaborate on <strong>AI, Machine Learning, and Computer Vision</strong> projects.</li>
-      <li>🤝 If you have new ideas and want to collaborate, do let me know!</li>
-      <li>⚡ Fun fact: Constantly learning new things.</li>
+      <li>I’m passionate about pursuing <strong>research-oriented projects</strong> and building <strong>innovative products</strong> that have a meaningful impact on the world.</li>
+      <li>Currently exploring how to leverage <strong>Deep Learning</strong> and <strong>Machine Learning</strong> in the <strong>medical domain</strong>.</li>
+      <li>I’m looking to collaborate on <strong>AI, Machine Learning, and Computer Vision</strong> projects.</li>
+      <li>If you have new ideas and want to collaborate, do let me know!</li>
+      <li>Fun fact: Constantly learning new things.</li>
     </ul>
 </div>
 
