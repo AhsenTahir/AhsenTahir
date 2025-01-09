@@ -62,26 +62,6 @@ I'm a passionate explorer of AI and Machine Learning. Here's a bit more about me
 </p>
 
 
----
-
-## 📊 GitHub Stats:
-
-![Ahsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsenTahir&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhsenTahir&theme=radical)](https://github.com/AhsenTahir/github-profile-trophy)
-
----
-
-## 🔝 Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsenTahir&layout=compact&theme=radical)
-
----
-
 ## Analytics:
 
 [![](https://visitcount.itsvg.in/api?id=AhsenTahir&label=Profile%20Viewers&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
